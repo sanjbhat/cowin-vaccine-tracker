@@ -8,7 +8,6 @@ Follow these steps.
 2. Follow the steps explained in the application.properties file.
 3. Run the CustomTask -> main method to schedule the slot checking for every 15 minutes.
 
-#### Disclaimer:
-###### Since this is written in java, this is going to be slower than a python script.And the author does not bear any responsibility for any issues arising out of using this application.
+
 
 
